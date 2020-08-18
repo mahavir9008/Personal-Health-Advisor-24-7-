@@ -7,3 +7,5 @@ The King's College London researchers will then analyse the data including heart
 The more people the COVID-Collab study can recruit the better capability researchers will have to understand key scientific questions. These include:
 
 # The above research give orgin to Personal Health Advisor mobile app which will take care of your health.
+
+Developer - # Mahabir Gupta
